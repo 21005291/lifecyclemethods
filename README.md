@@ -34,7 +34,7 @@ Registeration Number : 212221040022
 */
 ```
 
-MAIN ACTIVITY-XML
+ACTIVITY MAIN-XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -47,7 +47,7 @@ MAIN ACTIVITY-XML
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="QWERTY"
+        android:text="HOME"
         android:textAlignment="center"
         android:textColor="#4CAF50"
         android:textColorHighlight="#03A9F4"
@@ -62,15 +62,15 @@ MAIN ACTIVITY-XML
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="172dp"
-        android:text="abc"
+        android:text="HELLO"
         android:textAlignment="center"
-        android:textColor="#F44336"
+        android:textColor="#03A9F4"
         android:textColorHighlight="#03A9F4"
         android:textColorLink="#F44336"
         android:textSize="39sp"
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.181"
+        app:layout_constraintHorizontal_bias="0.272"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -78,15 +78,15 @@ MAIN ACTIVITY-XML
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="172dp"
-        android:text="def"
+        android:text="WORLD"
         android:textAlignment="center"
-        android:textColor="#673AB7"
+        android:textColor="#03A9F4"
         android:textColorHighlight="#9C27B0"
         android:textColorLink="#F44336"
         android:textSize="39sp"
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.826"
+        app:layout_constraintHorizontal_bias="0.763"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -182,13 +182,10 @@ ANDROID MANIFEST-XML
 ```
 
 ## OUTPUT
-<img width="1080" alt="Screenshot 2024-03-10 185410" src="https://github.com/21005291/lifecyclemethods/assets/112933167/3df3c767-4321-4b81-8cca-37d18ea12d5c">
-<img width="263" alt="Screenshot 2024-03-10 185530" src="https://github.com/21005291/lifecyclemethods/assets/112933167/635deb7e-8e66-442f-bbaa-3a8fe5cda014">
 
+<img width="1079" alt="Screenshot 2024-03-11 094533" src="https://github.com/21005291/lifecyclemethods/assets/112933167/f39f0feb-2fa7-464a-9491-da9b91e16193">
 
-
-
-
+<img width="295" alt="Screenshot 2024-03-11 094631" src="https://github.com/21005291/lifecyclemethods/assets/112933167/a9d490e2-78d6-499c-94e1-a189504ec8c6">
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
